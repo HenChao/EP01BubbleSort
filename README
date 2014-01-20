@@ -1,0 +1,11 @@
+/**
+The Novice Programmer ~ EP01 Bubble Sort 
+**/
+
+YouTube: http://youtu.be/GZpTgRFdPQs
+
+In the first episode, we take a look at implementing a simple bubble sort algorithm. We iterate through the design of the application we write the code, and discuss the advantages and disadvantages of the design decisions made.
+
+Language used for the project: Java
+About the algorithm: http://en.wikipedia.org/wiki/Bubble_sort
+Link to the Reddit discussion thread: http://www.reddit.com/r/learnprogramming/comments/1vmra3/the_novice_programmer_ep01_bubble_sort/
